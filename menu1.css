@@ -41,7 +41,7 @@ body{
     align-items: center; 
     padding-top: 30px; 
     padding-bottom: 30px; 
-    justify-content: space-between;
+   
 }
 
 @media screen and (max-width: 768px) {
