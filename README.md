@@ -1,7 +1,7 @@
 # Resume
 <h1 align="center">Hi 👋, I'm Tushar Veer</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src=https://www.bing.com/images/search?view=detailV2&ccid=D0zDV8Lq&id=4B6BA9A086BE713505E503F6523BE8365C5313B4&thid=OIP.D0zDV8LqYULffZ7f1-lhDAHaHa&mediaurl>
+<img align="right" alt="coding" width="400" src=https://asterisker.ru/wp-content/themes/microtik/img/usefully2.png>
 
 - 🌱 I’m currently learning **React, AWS**
 
