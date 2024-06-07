@@ -408,14 +408,18 @@ background-color: rgb(6, 56, 44);
     text-shadow: 2px 2px black;
 }
 .home img{
+    color:#e7f0f0;
     margin-left:10px ;
     padding: 5px 5px;
     border-radius: 30px;
-    background-color: #100d2d;
+    background-color:#13212e;
 
 }
 .home img:hover{
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0,0, 0.1);
     background-color: #0f7d85;
+    
 
   
 }
