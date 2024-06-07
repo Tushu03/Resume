@@ -13,6 +13,14 @@ body{
     background-image: linear-gradient(to right, #281c25, #0e0d27);
     box-decoration-break: slice;
 }
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+.social {
+  margin: 0 auto;
+  width: auto;
+  text-align: inherit;
+  /* padding: 10px; */
+}
+
    
 
 
