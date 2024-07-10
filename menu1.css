@@ -20,6 +20,16 @@ body{
   text-align: inherit;
   /* padding: 10px; */
 }
+@media only screen and (max-width: 600px) {
+    body {
+      font-size: 16px;
+    }
+}
+@media only screen and (min-width: 601px) {
+    body {
+      font-size: 18px;
+    }
+}
 
    
 
@@ -54,7 +64,7 @@ body{
    
 }
 
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
     .container {
         width: 95%;
     }
@@ -71,7 +81,7 @@ body{
     .home h2, .aboutme h1, .mainp h1, .skillsection h3, .edusection h3 {
         font-size: 20px;
     }
-}
+}*/
 
 
 #menu-toggle {
