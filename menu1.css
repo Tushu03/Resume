@@ -6,12 +6,13 @@ body{
     font-family: 'Times New Roman', Times, serif;
     
     
-    height: 100%;
+    
     margin: 0;
     padding: 0;
     background-color: rgb(24, 23, 39);
     background-image: linear-gradient(to right, #281c25, #0e0d27);
     box-decoration-break: slice;
+    justify-content: space-between;
 }
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 .social {
